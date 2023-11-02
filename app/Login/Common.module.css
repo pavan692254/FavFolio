@@ -1,0 +1,23 @@
+.cart {
+    width: 100%;
+}
+.login {
+    width: 100%;
+    height: 73vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-content:center;
+    background: #ccc;
+}
+.form {
+    width: 450px;
+}
+.head {
+    display: flex;
+    justify-content:center;
+    padding-top: 52px;
+}
